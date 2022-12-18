@@ -1,0 +1,220 @@
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.exe
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.deps.json
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.runtimeconfig.json
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.runtimeconfig.dev.json
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.pdb
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.Views.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.Views.pdb
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.csprojAssemblyReference.cache
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.AssemblyInfoInputs.cache
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.AssemblyInfo.cs
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.RazorAssemblyInfo.cache
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.RazorAssemblyInfo.cs
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.TagHelpers.input.cache
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.TagHelpers.output.cache
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.RazorCoreGenerate.cache
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.RazorTargetAssemblyInfo.cache
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.RazorTargetAssemblyInfo.cs
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.Views.pdb
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreMvc.StaticWebAssets.Manifest.cache
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreMvc.StaticWebAssets.xml
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.pdb
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.genruntimeconfig.cache
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.csproj.CopyComplete
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.csproj.CoreCompileInputs.cache
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\09361886750\Source\Repos\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.exe
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.deps.json
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.runtimeconfig.json
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.runtimeconfig.dev.json
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.pdb
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.Views.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\AspNetCoreMvc.Views.pdb
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.csprojAssemblyReference.cache
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreMvc.StaticWebAssets.Manifest.cache
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreMvc.StaticWebAssets.xml
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.MvcApplicationPartsAssemblyInfo.cache
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.RazorAssemblyInfo.cache
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.RazorAssemblyInfo.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.AssemblyInfoInputs.cache
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.AssemblyInfo.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.TagHelpers.input.cache
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.TagHelpers.output.cache
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.RazorCoreGenerate.cache
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.RazorTargetAssemblyInfo.cache
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.RazorTargetAssemblyInfo.cs
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.Views.pdb
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.csproj.CopyComplete
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.dll
+F:\Amoozesh\asp.net core 5 مقدماتی\3 - فصل سوم معماری و فریم ورک mvc در asp.net core\03-14 Validation\AspNetCoreMvc\AspNetCoreMvc\obj\Debug\netcoreapp3.1\AspNetCoreMvc.pdb
